@@ -7,6 +7,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: url(./app/shopping-gf86454280_1920.jpg);
   background-repeat:repeat-y;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 }
 
 code {

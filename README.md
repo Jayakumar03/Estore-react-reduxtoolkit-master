@@ -1,6 +1,6 @@
-# Estore-react app made with reduxtoolkit
+# E-commerence app made with reduxtoolkit and api
 
-## Hosted Link : 
+## Hosted Link : https://estore-react-reduxtoolkit-master-5pq7.vercel.app/
 
 # 
 
